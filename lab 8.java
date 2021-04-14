@@ -49,7 +49,7 @@ public class SalesCon {
    public double getAmount() {
        return this.saleAmount;
    }
-
+//seems like itd be way easier to do this with a loop
    public double printerMethod() {
        this.idNum = idNum;
        this.saleAmount = saleAmount;
